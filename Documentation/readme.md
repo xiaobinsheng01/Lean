@@ -1,4 +1,9 @@
-For full documentation please see https://www.quantconnect.com/lean
+本目录中的项目分析文档：
+
+- [架构方案](架构方案.md)：引擎分层、一次作业的运行链路、数据与交易子系统、扩展点。
+- [业务说明](业务说明.md)：研究、回测、参数优化、实盘与报表的业务能力、流程和边界。
+
+上游产品文档见 https://www.quantconnect.com/lean
 
 ## System Overview ##
 
